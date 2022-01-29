@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тетрис</string>
+    <string name="title">ТЕТРИС</string>
+    <string name="high_score_0">ЛУЧШИЙ РЕЗУЛЬТАТ:</string>
+    <string name="new_game">НОВАЯ ИГРА</string>
+    <string name="reset_score">СБРОС</string>
+    <string name="exit">ВЫХОД</string>
+</resources>
